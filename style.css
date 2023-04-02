@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.main {
+    width: 350px;
+    margin: 50px auto;
+    height: 400px;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+}
+
+.input input{
+    padding: 10px;
+    margin: 15px 0;
+}
+
+.butons{
+    padding: 10px 0;
+}
+
+.butons button{
+    padding: 15px;
+    color: white;
+    background-color: black;
+}
+
+.butons button i{
+    font-size: 20px;
+}
